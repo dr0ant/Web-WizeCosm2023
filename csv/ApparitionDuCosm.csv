@@ -1,0 +1,13 @@
+Type,Label,Identifier,Initials,Short Label,Summary,Chronological Position,Narrative Position,Color,Parent,Ongoing,Start Date,Latest Start Date,Duration,Earliest End Date,End Date,Tags,Blocked By,Blocks,Date Constraints,Links,Image (Links only)
+Ere,"02 - Apparition du Cosm","OBJ84",,,"",2,,Red,,False,13347-03-16 12:00,,"5115 years, 3 months, 2 weeks, 2 days, 12 hours",,18462-07-03 00:00,"","OBJ58","OBJ84","","",
+Periode,"Pluie de météores","OBJ82",,,"",2.1,,Red,"OBJ84",False,13739-03-16 12:00,,"2 months",,13739-05-16 12:00,"","","OBJ82","","",
+Periode,"Arrivée des Cataclysmes de Cosm","OBJ76",,,"",2.2,,Red,"OBJ84",False,14227-05-18 12:00,,"1 week",,14227-05-25 12:00,"","OBJ82","OBJ76","","",
+Periode,"Anéantissement des êtres vivants","OBJ80",,,"",2.3,,Red,"OBJ84",False,15021-06-14 12:00,,"20 years",,15041-06-14 12:00,"","OBJ76","OBJ80","","",
+Periode,"Première génération présentant du Cosm","OBJ75",,,"",2.4,,Red,"OBJ84",False,15268-07-18 12:00,,"10 years",,15278-07-18 12:00,"","OBJ80","OBJ75","","",
+Periode,"Maîtrise du Cosm par les peuples","OBJ78",,,"",2.5,,Red,"OBJ84",False,15856-03-16 12:00,,"15 years",,15871-03-16 12:00,"","OBJ75","OBJ78","","",
+Periode,"Civilisation Cosm centrée","OBJ81",,,"",2.6,,Red,"OBJ84",False,16551-03-16 12:00,,"20 years",,16571-03-16 12:00,"","OBJ78","OBJ81","","",
+Periode,"Combat contre les Cataclysmes engagée","OBJ83",,,"",2.7,,Red,"OBJ84",False,16946-03-16 12:00,,"21 years",,16967-03-16 12:00,"","OBJ81","OBJ83","","",
+Periode,"Conception des 6 pierres légendaires","OBJ77",,,"",2.8,,Red,"OBJ84",False,17316-03-16 12:00,,"11 years",,17327-03-16 12:00,"","OBJ83","OBJ77","","",
+Periode,"Guerre finale contre les Cataclysmes","OBJ73",,,"",2.9,,Red,"OBJ84",False,17509-03-16 12:00,,"5 years",,17514-03-16 12:00,"","OBJ77","OBJ73","","",
+Periode,"Défaite des Cataclysmes et Création des pierres légendaires","OBJ74",,,"",2.10,,Red,"OBJ84",False,17750-03-16 12:00,,"2 years",,17752-03-16 12:00,"","OBJ73","OBJ74","","",
+Periode,"Essort des populations","OBJ79",,,"",2.11,,Red,"OBJ84",False,18023-03-16 12:00,,"1 year",,18024-03-16 12:00,"","OBJ74","","","",

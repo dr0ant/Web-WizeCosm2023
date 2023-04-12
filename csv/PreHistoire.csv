@@ -1,0 +1,12 @@
+Type,Label,Identifier,Initials,Short Label,Summary,Chronological Position,Narrative Position,Color,Parent,Ongoing,Start Date,Latest Start Date,Duration,Earliest End Date,End Date,Tags,Blocked By,Blocks,Date Constraints,Links,Image (Links only)
+Ere,"01 - Pré - Histoire","OBJ58",,,"",1,,New Color,,False,2677-03-16 12:00,,"10670 years",,13347-03-16 12:00,"","","OBJ58","","",
+Periode,"Eclypse infinie ","OBJ62",,,"",1.1,,New Color,"OBJ58",False,2996-03-16 12:00,,"393 years",,3389-03-16 12:00,"","","OBJ62","","",
+Periode,"Remontée vers la lumière du soleil","OBJ63",,,"",1.2,,New Color,"OBJ58",False,3844-03-16 12:00,,"640 years",,4484-03-16 12:00,"","OBJ62","OBJ63","","",
+Periode,"Génération des aveugles","OBJ64",,,"",1.3,,New Color,"OBJ58",False,4484-03-16 12:00,,"1059 years",,5543-03-16 12:00,"","OBJ63","OBJ64","","",
+Periode,"Premiers voyants","OBJ65",,,"",1.4,,New Color,"OBJ58",False,5543-03-16 12:00,,"980 years",,6523-03-16 12:00,"","OBJ64","OBJ65","","",
+Periode,"Période de paix et de prospérité entre les peuples","OBJ66",,,"",1.5,,New Color,"OBJ58",False,6523-03-16 12:00,,"889 years",,7412-03-16 12:00,"","OBJ65","OBJ66","","",
+Periode,"Développement des peuples sous marrin en Empire","OBJ67",,,"",1.6,,New Color,"OBJ58",False,7412-03-16 12:00,,"929 years",,8341-03-16 12:00,"","OBJ66","OBJ67","","",
+Periode,"Grande guerre des peuples","OBJ68",,,"",1.7,,New Color,"OBJ58",False,8341-03-16 12:00,,"269 years",,8610-03-16 12:00,"","OBJ67","OBJ68","","",
+Periode,"Polarisation & Fragmentation des territoires","OBJ69",,,"",1.8,,New Color,"OBJ58",False,8610-03-16 12:00,,"479 years",,9089-03-16 12:00,"","OBJ68","OBJ69","","",
+Periode,"Eveil du Vikthan Ancestral","OBJ70",,,"",1.9,,New Color,"OBJ58",False,9089-03-16 12:00,,"182 years",,9271-03-16 12:00,"","OBJ69","OBJ70","","",
+Periode,"Appel du Vikthan","OBJ71",,,"",1.10,,New Color,"OBJ58",False,9271-03-16 12:00,,"438 years",,9709-03-16 12:00,"","OBJ70","","","",

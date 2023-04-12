@@ -1,0 +1,8 @@
+Type,Label,Identifier,Initials,Short Label,Summary,Chronological Position,Narrative Position,Color,Parent,Ongoing,Start Date,Latest Start Date,Duration,Earliest End Date,End Date,Tags,Blocked By,Blocks,Date Constraints,Links,Image (Links only)
+Ere,"03 - Ere des Gardiens","OBJ92",,,"",3,,Lilac,,False,18462-07-04,,"1960 years, 11 months, 2 days",,20423-06-06,"","OBJ84","OBJ92","","",
+Periode,"Création des temples des Gardiens","OBJ88",,,"",3.1,,Lilac,"OBJ92",False,18588-07-04 00:00,,"10 years",,18598-07-04 00:00,"","","OBJ88","","",
+Periode,"Désignation des 6 gardiens des pierres","OBJ89",,,"",3.2,,Lilac,"OBJ92",False,18711-07-04 00:00,,"0 seconds",,18711-07-04 00:00,"","OBJ88","OBJ89","","",
+Periode,"Civilisation Gardien centrée","OBJ90",,,"",3.3,,Lilac,"OBJ92",False,18951-03-02 20:12:09,,"510 years, 4 months, 1 day, 3 hours, 47 minutes, 51 seconds",,19461-07-04 00:00:00,"","OBJ89","OBJ90","","",
+Periode,"Accumulation de Cosm par les créature et montée en influence des Mercenaires","OBJ86",,,"",3.4,,Lilac,"OBJ92",False,19461-07-04 00:00,,"244 years, 11 months, 4 weeks",,19706-07-02 00:00,"","OBJ90","OBJ86","","",
+Periode,"Oubli des gardiens","OBJ87",,,"",3.5,,Lilac,"OBJ92",False,19706-07-03 00:00,,"431 years",,20137-07-03 00:00,"","OBJ86","OBJ87","","",
+Periode,"Création de l'odre des chevaliers Cosmer","OBJ91",,,"",3.6,,Lilac,"OBJ92",False,20137-07-03 00:00,,"1 year",,20138-07-03 00:00,"","OBJ87","","","",

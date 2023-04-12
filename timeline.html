@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>WizeCosm | TimeLine</title>
+      <link rel="icon" href="/logos/Logo_WizeCosmV3_ICO.ico">
+
+
+<!--Script Include js P1-->
+<script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+
+<!--Script Include js P2-->
+<script> 
+$(function(){
+  $("#header").load("header.html"); 
+  $("#footer").load("footer.html"); 
+  $("#timeline").load("aeontimeline.html"); 
+});
+</script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+
+
+<style>
+   
+
+.box{
+      width: auto;
+      height: auto;
+      border: white;
+      padding: 1px;
+      margin: 1px;
+      border-radius: 12px;
+      background: linear-gradient(-45deg, #012030, #000000, #012030, #000000);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+      object-fit: cover;
+    } 
+
+
+
+.top-items{
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  overflow-x: scroll;
+  
+
+
+}
+
+
+
+
+
+  .title{
+    color:white;
+    font-size: large;
+    padding-bottom: 20px;
+    padding-top: 50px;
+
+  }
+
+  .video{
+    padding: 30px;
+  }
+
+  img.characters-images{
+    width: 320px;
+    height: auto;
+  }
+
+
+
+  .character-name {
+    color: white;
+    font-size: small;
+  }
+
+.faction-logo{
+  width: 45px;
+  height: auto;
+}
+
+
+div .item a:hover {
+  background-color:#012030 ;
+  border-radius: 15px 15px 15px 15px;
+  opacity: 0.5;
+ }
+  
+
+</style>
+
+
+
+</head>
+
+
+
+<body>
+
+
+<!--     HEADER      -->
+<div id="header"></div>
+
+
+
+      <!--     TimeLine     -->
+<div class="box">
+<iframe src="/WizeCosmWeb/aeontimeline.html"  frameborder="0" style="overflow-x:hidden;overflow-y:hidden;height:45vw;width:100vw;position:relative;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
+</div>
+
+
+
+
+
+
+
+   
+</body>
+
+</html>
